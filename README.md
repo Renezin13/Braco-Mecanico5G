@@ -14,6 +14,7 @@ Simulador provavelmente estará funcionando
 # Para conectar o Oculus ao computador:
 
 I.	Baixe o aplicativo Meta Quest Developer Hub:
+
   •	Acesse o link para download: https://developers.meta.com/horizon/downloads/package/oculus-developer-hub-win/
   
 II.	Instale o aplicativo e entre com uma conta.
@@ -21,13 +22,14 @@ II.	Instale o aplicativo e entre com uma conta.
 III.	Conecte outro PC a um cabo de rede e ative o hostport móvel.
 
 IV.	No PC que executará o projeto:
+
   •	Conecte-o à rede cabeada e ao Wi-Fi fornecido pelo hostport móvel.
   
 V.	No Oculus:
 
-  1.	Conecte-se ao Wi-Fi do hostport móvel.
+1.	Conecte-se ao Wi-Fi do hostport móvel.
   
-  2. 	Acesse o menu de configurações:
+2. 	Acesse o menu de configurações:
      
   2.1.	No seu Oculus, pressione o botão do menu para abrir o painel ou clicando na hora ou no ícone do Wi-Fi da barra de tarefa ir para uma tela e no canto superior direito da tela selecione a opção de escrito Configurações.
   

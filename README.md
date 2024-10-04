@@ -24,13 +24,21 @@ IV.	No PC que executará o projeto:
   •	Conecte-o à rede cabeada e ao Wi-Fi fornecido pelo hostport móvel.
   
 V.	No Oculus:
+
   1.	Conecte-se ao Wi-Fi do hostport móvel.
-  2.	Acesse o menu de configurações:
+  
+  2. 	Acesse o menu de configurações:
+     
   2.1.	No seu Oculus, pressione o botão do menu para abrir o painel ou clicando na hora ou no ícone do Wi-Fi da barra de tarefa ir para uma tela e no canto superior direito da tela selecione a opção de escrito Configurações.
+  
   2.2.	Dentro de Configurações, encontre e selecione Sistema.
+  
   2.3.	No menu de Sistema, procure a opção Quest Link e clique nela.
+  
   2.4.	Certifique-se de que o Quest Link esteja ativado. Se não estiver, você verá uma opção para ativá-lo.
+  
   2.5.	Depois disso o Oculus deve listar os computadores disponíveis na rede. Selecione o computador que você está usando para o projeto.
+  
   2.6.	Siga as instruções na tela para concluir a conexão. Isso pode incluir a aceitação de permissões ou a configuração de controles.
 
 # Adicionando Projeto no Unity Hub 
